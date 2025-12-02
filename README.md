@@ -1,5 +1,5 @@
 # amitbhargava
-# Hi, I'm Amit 👋
+Hi, I'm Amit 👋
 MSc Statistics & Data Science @ KU Leuven
 
 **Skills:** Python • R • SQL • Machine Learning  
