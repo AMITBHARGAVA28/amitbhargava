@@ -1,4 +1,4 @@
-# amitbhargava
+# About Me 
 Hi, I'm Amit 👋
 MSc Statistics & Data Science @ KU Leuven
 
